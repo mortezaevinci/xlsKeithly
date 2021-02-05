@@ -1,0 +1,13 @@
+time	addr	cmnd	set	get i	get v		
+9:40:35 AM	GPIB0::26::INSTR	smua.measure.iv()		8.43E-12	5.79E-06		
+							
+							
+							
+							
+							
+							
+							
+
+	
+	
+
